@@ -1,4 +1,4 @@
-# Operating Systems Exam
+# Operating Systems
 
 ## Chapter 1: Introduction to OS
 
